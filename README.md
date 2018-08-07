@@ -1,7 +1,7 @@
 # React_Native_IBM_MetaWeather_Challenge
 React Native solution to the MetaWeather Challenge
 
-<img src="https://raw.github.com/hsavit1/React_Native_IBM_MetaWeather_Challenge/master/screenshot1.png" height="350"/>
+<img src="https://github.com/hsavit1/React_Native_IBM_MetaWeather_Challenge/blob/master/screenshot.png" height="350"/>
 
 This repo contains a React Native solution to the MetaWeather challenge. I had done a [Swift solution](https://github.com/hsavit1/IBM_MetaWeather_Challenge) as well using a Redux flavored library called ReSwift, but I thought that the code did not come out as clean as I would have liked and I was rather unhappy with the final product. So I created this project to show how a well crafted Redux architecture can really clean up your code design.
 
